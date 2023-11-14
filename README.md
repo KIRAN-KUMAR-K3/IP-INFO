@@ -55,4 +55,4 @@ If you'd like to contribute, please fork the repository and create a pull reques
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](git clone https://github.com/KIRAN-KUMAR-K3/IP-INFO.git) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/KIRAN-KUMAR-K3/IP-INFO.git) file for details.
