@@ -1,9 +1,3 @@
 An IP address, or Internet Protocol address, is a unique numerical identifier assigned to every device connected to a computer network, including devices on the internet. It's like a physical address for your device in the vast digital world. IP addresses serve two main purposes:
 
 1. **Network Interface Identification:** IP addresses identify the specific network interface of a device, allowing for communication between devices on the same network.
-
-2. **Location Addressing:** IP addresses also provide the location of a device within the global internet, enabling data packets to be routed to the correct destination.
-
-There are two primary versions of IP addresses in use today:
-
-1. **IPv4 (Internet Protocol version 4):** The older and mor
